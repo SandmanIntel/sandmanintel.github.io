@@ -1,3 +1,8 @@
+# this is the root
+
+dglkjsdg ds
+gds gdsg dsg dsg sdg sdg ds gsd gds g dsg dsg dsg
+
 
 ## The Subdirectory
 
